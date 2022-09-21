@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jRHUkn/6IFuWzoQqg6IiHpW10cQNUfyzp7oh3XIXPmg=",
+  "Hash": "NInOfNCc3BaHTzFFenQq4EvrTvqKgUsdUk4NbeiZlGg=",
   "Source": "FL2022-Assignment2-zragland",
   "BasePath": "_content/FL2022-Assignment2-zragland",
   "Mode": "Default",
@@ -1086,6 +1086,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\xmragland\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-xmragland\\wwwroot\\sonar.jpg",
+      "SourceId": "FL2022-Assignment2-zragland",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xmragland\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-xmragland\\wwwroot\\",
+      "BasePath": "_content/FL2022-Assignment2-zragland",
+      "RelativePath": "sonar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sonar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\xmragland\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-xmragland\\wwwroot\\sonarPic.jpg",
+      "SourceId": "FL2022-Assignment2-zragland",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xmragland\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-xmragland\\wwwroot\\",
+      "BasePath": "_content/FL2022-Assignment2-zragland",
+      "RelativePath": "sonarPic.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sonarPic.jpg"
     },
     {
       "Identity": "C:\\Users\\xmragland\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-xmragland\\wwwroot\\style.css",

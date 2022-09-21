@@ -3,15 +3,44 @@
 <html lang="en">
 
 <head>
+    <title>Sonar</title>
 
-  <link rel="stylesheet" href="./style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL" crossorigin="anonymous"></script>
 
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 
-<body>
+<body style="background-image: url(sonar.jpg); background-size:cover ">
+    <div id="logo">
+        <h1 onclick="imageChange()">Sonar Search Engine</h1>
+    </div>
+    
 
-  <script type="text/javascript" src="./script.js"></script>
-    HI
+    <div id="textBox">
+
+        <input id="query" type="text" placeholder="Type here to search Sonar" />
+        <br />
+        
+        <button onclick="apiCall()" value="search" type="button">Search</button>
+        <button onclick="timeView()" value="timeButton" >Time</button>
+        <br />
+        <button onclick="imFeelingLucky()" value="luck" type="button">I'm Feeling Lucky</button>
+        
+
+
+    </div>
+
+    <div id="searchResults">
+
+    </div>
+
+    <div id="time">
+
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
 </body>
 
 </html>
